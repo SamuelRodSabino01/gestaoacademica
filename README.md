@@ -69,6 +69,19 @@ Acesse em: `http://localhost:8000` ou `http://gestaoacademica.test` se estiver u
 
 ---
 
+
+---
+
+## 📁 Estrutura de Views
+
+O projeto utiliza o seguinte padrão organizacional:
+
+- `resources/views/layouts/app.blade.php` – layout principal
+- `resources/views/pages/home.blade.php` – página inicial
+- `resources/views/components/` – componentes reutilizáveis (em breve)
+- `public/assets/` – arquivos estáticos como CSS, JS, imagens, etc.
+
+
 ## 🧠 Objetivo do projeto
 
 Esse projeto faz parte de um **ciclo de estudos pessoal**, com 1h diária de dedicação focada em:
